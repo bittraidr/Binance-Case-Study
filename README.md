@@ -104,28 +104,28 @@ According to StackShare Binance's tech stack includes:
 
 ## Recommendations
 
-* An additional service for Binance to consider is in-site forums or live message chats, similar to what coinmarketcap.com offers. Binance does have a blog, since a lot of the top traders frequently use these exchanges, it would be great to provide a social area for everyone. There are similar chats for certain aspects on Telegram or Twitter, but having a central location within Binance would also be beneficial too. 
-The dev channel for Binance on telegram is very slow to respond, sometimes taking days, and this is because the staff answering tickets is very limited. A community can answer questions much quicker and for free!
+* An additional service for Binance to consider is in-site forums or live message chats, similar to what coinmarketcap.com offers. Binance currently refers API developers to chats on Telegram and other issues have to open support tickets which is frustrating for users becuase in 2023 uers expect to talk to someone live. Having a central location within Binance would be beneficial too for many technical issues including API, how-to instructions for transactions, and trading information.
+The developer channel for Binance on Telegram is very slow to respond, sometimes taking days, and this is because the staff answering tickets is very limited. A community can answer questions much quicker and for free!
 
-
-* When someone has an issue, it's much more helpful to be able to aggregate answers from many people rather than one or two technical employees. That few technical workers are answering many questions, however if there were open forums or chats on Binance then it's much more likely to get answers to questions. Also, I think this applies in terms of investment as well. Users would be able to push products and gather momentum. In this is would draw more users to the platform. There could be some drawbacks like spambots, but the admins on telegram have tools to deal with those, so could Binance. 
+* When someone has an issue, it's much more helpful to be able to aggregate answers from many people rather than one or two technical employees that may be overwhelmed. However, if there were open forums or chats on Binance then it's much more likely to get answers to questions sooner. This draws and retains more users to the platform. There could be some drawbacks like spambots, but the admins have tools to deal with those.
 
 
 ### Technology To Implement 
 
-* There are already some chat platforms in existence that could be integrated into the Binance website. Chatwee is a platform which can be embedded into websites that offer group chat and private messaging and comes equipped for file sharing and customizable chat appearance. Admins have the ability to set up profanity filters, ban users, as well as monitor chat activity.
+* Chatwee is a platform which can be embedded into websites that offer group chat and private messaging and comes equipped for file sharing and customizable chat appearances. Admins have the ability to set up profanity filters, ban users, as well as monitor chat activity.
         
-* Another option is NodeBB which is scalable with a plugin system and a responsive design across to various screen sizes which provides users with a friendly environment no matter what device they are using. Users have the ability to make profiles and admins can set permissions and guidelines. 
+* NodeBB is scalable with a plugin system and a responsive design across the various screen sizes which provides users with a friendly environment no matter what device they are using. Users have the ability to make profiles and admins can set permissions and guidelines. 
 
-
-* The goal would be to create more interactive and engaging communication on the Binance platform itself. These technologies could possibly help users not feel neglected when they have an issue, as their peers would maybe be able to share insight or experiences dealing with similar issues. This in turn might help reduce the amount of negative experience that lead to negative reviews. 
+* These technologies could help users not feel neglected when they have an issue, as their peers can share insight or experiences dealing with similar issues. This in turn could help reduce experiences that lead to negative reviews. 
 
 
 ## Sources 
 
+https://chatwee.com/
 
 https://coinstats.app/blog/biggest-crypto-exchanges/#:~:text=5%20Biggest%20Crypto%20Exchanges%20by%20Average%20Daily%20Volume,Choosing%20a%20Crypto%20Exchange%20...%208%20Conclusion%20
 
+https://nodebb.org/
 
 https://www.investopedia.com/search?q=binance
 
