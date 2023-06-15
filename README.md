@@ -18,7 +18,7 @@
 
 ### Competitive Advantage
 
-Binance offers a competitive advantage in the form of their own blockchain for developers to build on, BNB Chain. This is unique and allows Binance to attract more projects, adds additional value to BNB Chain, the native currency to the exchange. More projects being developed means more energy being put into the Binance ecosystem and more chatter in the cryptocurrency community, which in turn draws even more in. 
+* Binance offers a competitive advantage in the form of their own blockchain for developers to build on, BNB Chain. This is unique and allows Binance to attract more projects, adds additional value to BNB Chain, the native currency to the exchange. More projects being developed means more energy being put into the Binance ecosystem and more chatter in the cryptocurrency community, which in turn draws even more in. 
 
 
 ### Current Technologies User By Binance
@@ -44,11 +44,11 @@ According to StackShare Binance's tech stack includes:
 
 ## Landscape
 
-*Binance is a prominent player in the domain of cryptocurrency and digital asset exchange. It operates as a cryptocurrency exchange platform that allows users to trade a wide range of digital currencies, including Bitcoin, Ethereum, and many others. Binance provides services for buying, selling, and storing cryptocurrencies, as well as various trading features such as spot trading, futures trading, and margin trading. The company is primarily focused on the crypto industry and plays a significant role in facilitating the exchange and trading of digital assets for individuals and institutions.
+* Binance is a prominent player in the domain of cryptocurrency and digital asset exchange. It operates as a cryptocurrency exchange platform that allows users to trade a wide range of digital currencies, including Bitcoin, Ethereum, and many others. Binance provides services for buying, selling, and storing cryptocurrencies, as well as various trading features such as spot trading, futures trading, and margin trading. The company is primarily focused on the crypto industry and plays a significant role in facilitating the exchange and trading of digital assets for individuals and institutions.
 
 ### Trends and Innovations
 
-*The cryptocurrency space is flush with innovations and here are five trends:
+* The cryptocurrency space is flush with innovations and here are five trends:
 
 1. Initial Coin Offerings (ICOs) and Initial Exchange Offereings (IEOs) have become the most popular fundraising method.  
 
@@ -62,7 +62,7 @@ According to StackShare Binance's tech stack includes:
 
 ### Competitors 
 
-*These are three prominent competitors:
+* Three prominent competitors:
 
 1. Coinbase, OKX, Kraken are a few others of the largest and popular cryptocurrency exchanges globally. They provide a user-friendly platform for buying, selling, and storing various cryptocurrencies. Coinbase offers services for retail investors as well as institutions and has played a significant role in the mainstream adoption of cryptocurrencies, especially in the US, but they have branched out globally as well. According to coinbase.com, Coinbase is available in many European countries as well as Canada. 
 
@@ -86,7 +86,7 @@ According to StackShare Binance's tech stack includes:
 ### Core Metrics 
 
 
-*Some core metrics to measure the success of Binance is trade volume, user base size, revenue and profitability, market share and customer satisfaction. 
+** Some core metrics to measure the success of Binance is trade volume, user base size, revenue and profitability, market share and customer satisfaction. 
 
 
 * Trade Volume: Binance.com and Binance.us combine for a current average of about $64 billion in daily trade volume. Of course, the crypto market is volatile, and these numbers fluctuate greatly on a day-to-day basis. For instance, in 2021 the average volume was $147.6 billion and in 2022 $94 billion.  Binance hosts about 55% of all crypto spot treading as of January 2023 according to finder.com.
