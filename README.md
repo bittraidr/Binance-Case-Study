@@ -106,7 +106,7 @@ According to StackShare Binance's tech stack includes:
 
 ## Recommendations
 
-* Some advice for Binance on an additional service to offer is forums or live message chats, similar to what coinmarketcap.com offers. Binance does have a blog, since a lot of the top traders frequently use these exchanges, it would be great to provide a social area for everyone. There are similar chats for certain aspects on Telegram or Twitter, but having a central location within Binance would also be beneficial too. 
+* An additional service for Binance to consider is in-site forums or live message chats, similar to what coinmarketcap.com offers. Binance does have a blog, since a lot of the top traders frequently use these exchanges, it would be great to provide a social area for everyone. There are similar chats for certain aspects on Telegram or Twitter, but having a central location within Binance would also be beneficial too. 
 The dev channel for Binance on telegram is very slow to respond, sometimes taking days, and this is because the staff answering tickets is very limited. A community can answer questions much quicker and for free!
 
 
