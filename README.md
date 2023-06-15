@@ -31,13 +31,11 @@ According to StackShare Binance's tech stack includes:
 * next.js, 
 * Ant design
 
-* Binance is also an Android and iPhone app there are likely many additional technologies being used like Go, and Swift.
+* Cell phone app technologies such as Go, and Swift for Android and Iphone.
 
 * BNB Chain, the Binance crypto blockchain, which is an EVM-compatible network, forked from “go-ethereum”. According to https://research.binance.com/en/projects/bnb.
 
-* For frontend, web based languages for trading platforms often use technologies like HTML, CSS, and JavaScript frameworks like React, Angular, or Vue.js to provide users with an interactive and responsive user interface.
-
-* Binance currently uses relational databases like MySQL or PostgreSQL, as well as NoSQL databases like MongoDB, may be employed to store and manage user data, transaction information, and other relevant data.
+* For frontend, web based languages for trading platforms often use technologies like HTML, CSS, and JavaScript frameworks like React, Angular, or Vue.js.
 
 * For security, Binance uses encryption, two-factor authentication (2FA), secure socket layers (SSL), and other security protocols to protect user accounts and transactions.
 
