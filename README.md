@@ -23,7 +23,7 @@
 
 ### Current Technologies User By Binance
 
-According to StackShare Binance's tech stack includes: 
+According to StackShare, Binance's tech stack includes: 
 * Java, 
 * Nginx, 
 * Amazon Web Services, 
@@ -104,7 +104,7 @@ According to StackShare Binance's tech stack includes:
 
 ## Recommendations
 
-* An additional service for Binance to consider is in-site forums or live message chats, similar to what coinmarketcap.com offers. Binance currently refers API developers to chats on Telegram and other issues have to open support tickets which is frustrating for users becuase in 2023 uers expect to talk to someone live. Having a central location within Binance would be beneficial too for many technical issues including API, how-to instructions for transactions, and trading information.
+* An additional service for Binance to consider is in-site forums or live message chats, similar to what coinmarketcap.com offers. Binance currently refers API developers to chats on Telegram and other issues have to open support tickets, which is frustrating for users because in 2023 users expect to talk to someone live. Having a central location within Binance would be beneficial too for many technical issues including API, how-to instructions for transactions, and trading information.
 The developer channel for Binance on Telegram is very slow to respond, sometimes taking days, and this is because the staff answering tickets is very limited. A community can answer questions much quicker and for free!
 
 * When someone has an issue, it's much more helpful to be able to aggregate answers from many people rather than one or two technical employees that may be overwhelmed. However, if there were open forums or chats on Binance then it's much more likely to get answers to questions sooner. This draws and retains more users to the platform. There could be some drawbacks like spambots, but the admins have tools to deal with those.
@@ -114,7 +114,7 @@ The developer channel for Binance on Telegram is very slow to respond, sometimes
 
 * Chatwee is a platform which can be embedded into websites that offer group chat and private messaging and comes equipped for file sharing and customizable chat appearances. Admins have the ability to set up profanity filters, ban users, as well as monitor chat activity.
         
-* NodeBB is scalable with a plugin system and a responsive design across the various screen sizes which provides users with a friendly environment no matter what device they are using. Users have the ability to make profiles and admins can set permissions and guidelines. 
+* NodeBB is scalable with a plugin system and a responsive design across the various screen sizes, which provides users with a friendly environment no matter what device they are using. Users have the ability to make profiles and admins can set permissions and guidelines. 
 
 * These technologies could help users not feel neglected when they have an issue, as their peers can share insight or experiences dealing with similar issues. This in turn could help reduce experiences that lead to negative reviews. 
 
