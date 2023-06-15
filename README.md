@@ -41,7 +41,6 @@ According to StackShare Binance's tech stack includes:
 
 * For security, Binance uses encryption, two-factor authentication (2FA), secure socket layers (SSL), and other security protocols to protect user accounts and transactions.
 
-
 ## Landscape
 
 * Binance is a prominent player in the domain of cryptocurrency and digital asset exchange. It operates as a cryptocurrency exchange platform that allows users to trade a wide range of digital currencies, including Bitcoin, Ethereum, and many others. Binance provides services for buying, selling, and storing cryptocurrencies, as well as various trading features such as spot trading, futures trading, and margin trading. The company is primarily focused on the crypto industry and plays a significant role in facilitating the exchange and trading of digital assets for individuals and institutions.
@@ -85,10 +84,6 @@ According to StackShare Binance's tech stack includes:
 
 ### Core Metrics 
 
-
-** Some core metrics to measure the success of Binance is trade volume, user base size, revenue and profitability, market share and customer satisfaction. 
-
-
 * Trade Volume: Binance.com and Binance.us combine for a current average of about $64 billion in daily trade volume. Of course, the crypto market is volatile, and these numbers fluctuate greatly on a day-to-day basis. For instance, in 2021 the average volume was $147.6 billion and in 2022 $94 billion.  Binance hosts about 55% of all crypto spot treading as of January 2023 according to finder.com.
 
 
@@ -100,7 +95,6 @@ According to StackShare Binance's tech stack includes:
 
 ### Performance
 
-
 * In terms of trading volume, market share Binance lead in that metric as well in 2022 with about 66.7%, though started the year with about 50%. This is among 11 exchanges being tracked for 2022. Second place market share was Coinbase at 8.2%. This is according to coindesk.com.
 
 
@@ -110,10 +104,7 @@ According to StackShare Binance's tech stack includes:
 * In the area of regulatory compliance, Binance is at this time of writing this in hot water in the US with the SEC. They as of now have avoided having their assets completely frozen as decided by a D.C. District Court Judge, Amy Berman, so long as the parties involved could agree on limits. The SEC alleges Binance has sold unregistered securities such as BNB and mishandled customer funds. Regulations are meant to protect investors and Binance a newer entity, so hopefully the negotiations between the US SEC and Binance will yield a positive direction for the industry as a whole.
 
 
-
-
 ## Recommendations
-
 
 * Some advice for Binance on an additional service to offer is forums or live message chats, similar to what coinmarketcap.com offers. Binance does have a blog, since a lot of the top traders frequently use these exchanges, it would be great to provide a social area for everyone. There are similar chats for certain aspects on Telegram or Twitter, but having a central location within Binance would also be beneficial too. 
 The dev channel for Binance on telegram is very slow to respond, sometimes taking days, and this is because the staff answering tickets is very limited. A community can answer questions much quicker and for free!
@@ -124,15 +115,12 @@ The dev channel for Binance on telegram is very slow to respond, sometimes takin
 
 ### Technology To Implement 
 
-
 * There are already some chat platforms in existence that could be integrated into the Binance website. Chatwee is a platform which can be embedded into websites that offer group chat and private messaging and comes equipped for file sharing and customizable chat appearance. Admins have the ability to set up profanity filters, ban users, as well as monitor chat activity.
         
 * Another option is NodeBB which is scalable with a plugin system and a responsive design across to various screen sizes which provides users with a friendly environment no matter what device they are using. Users have the ability to make profiles and admins can set permissions and guidelines. 
 
 
 * The goal would be to create more interactive and engaging communication on the Binance platform itself. These technologies could possibly help users not feel neglected when they have an issue, as their peers would maybe be able to share insight or experiences dealing with similar issues. This in turn might help reduce the amount of negative experience that lead to negative reviews. 
-
-
 
 
 ## Sources 
