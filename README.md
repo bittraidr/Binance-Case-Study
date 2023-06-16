@@ -83,7 +83,7 @@ According to StackShare, Binance's tech stack includes:
 * User Base: The total user base of Binance.com and Binance.us is approx 128 millions users. In comparison, to the next largest exchange, Coinbase has about 108 million users. Though there is overlap as most users actually are signed up on both exchanges. The Binance NFT division in 2022 had about 600,000 weekly users. 
 
 
-* Revenue and Profitability: businessofapps.com reported Binance made about $20 billion in revenue in 2020 and 2021 and $6.4 billion in 2022 in comparison to Coinbase which generate about $3.1 billion in profits. In 2021 Binance reported $145 million in net profits. This figure varies based on the current popularity of crypto and market conditions such as investor sentiment and interest rates.  
+* Revenue and Profitability: businessofapps.com reported Binance made about $20 billion in revenue in 2020 and 2021 and $6.4 billion in 2022 in comparison to Coinbase which generate about $3.1 billion in profits. In 2021, Binance reported $145 million in net profits. This figure varies based on the current popularity of crypto and market conditions such as investor sentiment and interest rates.  
 
 
 ### Performance
@@ -91,19 +91,18 @@ According to StackShare, Binance's tech stack includes:
 * In terms of trading volume, market share Binance lead in that metric as well in 2022 with about 66.7%, though started the year with about 50%. This is among 11 exchanges being tracked for 2022. Second place market share was Coinbase at 8.2%. This is according to coindesk.com.
 
 
-* According to Investopedia, which sites Trustpilot reviews. There have been several complaints revolving around poor customer service and difficulty withdrawing funds. Thus, Binance averages about 2 out of 5 stars. When checking Trustpilot reviews, Binance has about 16% 5-star reviews, however about 67% 1-star reviews. Of course dissatisfied people might actually make the effort to post a review opposed to satisfied people, this shows that there is a ton of room for improvement. My advice below could help solve this issue. In comparison, Coinbase has an average of 1.5 stars and OKX has a 3 out of 5 star average. 
+* According to Investopedia, which cites Trustpilot reviews. There have been several complaints revolving around poor customer service and difficulty withdrawing funds. Thus, Binance averages about 2 out of 5 stars. When checking Trustpilot reviews, Binance has about 16% 5-star reviews, however about 67% 1-star reviews. Of course dissatisfied people might actually make the effort to post a review opposed to satisfied people, this shows that there is a ton of room for improvement. My advice below could help solve this issue. In comparison, Coinbase has an average of 1.5 stars and OKX has a 3 out of 5 star average. 
 
 
-* In the area of regulatory compliance, as of June 5, 2023, in hot water in the US with the SEC with charges of mishandling customer funds and selling unregistered securities. They as of now have avoided having their assets completely frozen as decided by a D.C. District Court Judge, Amy Berman, so long as the parties involved could agree on limits. The SEC alleges Binance has sold unregistered securities such as BNB and mishandled customer funds. Regulations are meant to protect investors and Binance a newer entity, so hopefully the negotiations between the US SEC and Binance will yield a positive direction for the industry as a whole.
-
+* In the area of regulatory compliance, as of June 5, 2023, in hot water in the US with the SEC with charges of mishandling customer funds and selling unregistered securities. As of now, they have avoided having their assets completely frozen as decided by a D.C. District Court Judge, Amy Berman, so long as the parties involved could agree on limits. The SEC alleges Binance has sold unregistered securities such as BNB and mishandled customer funds.
 
 ## Recommendations
 
-* An additional service for Binance to consider is in-site forums or live message chats, similar to what coinmarketcap.com offers. Binance currently refers API developers to chats on Telegram and other issues have to open support tickets, which is frustrating for users because in 2023 users expect to talk to someone live. Having a central location within Binance would be beneficial too for many technical issues including API, how-to instructions for transactions, and trading information.
+* An additional service for Binance to consider is in-site forums or live message chats, similar to what coinmarketcap.com offers. Binance currently directs API developers to chats on Telegram, and other issues have to open support tickets, which is frustrating for users because in 2023 users expect to have live conversations. Having a central location within Binance would be beneficial too for many technical issues including API, how-to instructions for transactions, and trading information.
   
-* The developer channel for Binance on Telegram is very slow to respond, sometimes taking days, and this is because the staff answering tickets is limited. A community can answer questions much quicker and for free!
+* The developer channel for Binance on Telegram is very slow to respond, sometimes taking days, which is due to the limited staff answering tickets. A community can answer questions much quicker and for free!
 
-* When someone has an issue, it's much more helpful to be able to aggregate answers from many people rather than one or two technical employees that may be overwhelmed. However, if there were open forums or chats on Binance then it's much more likely to get answers to questions sooner. This draws and retains more users to the platform. There could be some drawbacks like spambots, but the admins have tools to deal with those.
+* When someone has an issue, it's much more helpful to be able to aggregate answers from many people rather than one or two technical employees that may be overwhelmed. However, if there were open forums or chats on Binance, then it's much more likely to get answers to questions sooner. This draws and retains more users to the platform. There could be some drawbacks like spambots, but the admins have tools to deal with those.
 
 
 ### Technology To Implement 
