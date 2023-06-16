@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* Binance was founded in China in 2017 by Changpeng Zhao, who also goes my the nickname CZ. He is the current CEO. The binance.us CEO is Brian Shroder, a former executive director of Ant Group Co. and Uber Technologies Inc. Crypto currency was gaining a lot of international momentum in 2017 and CZ identified a need for a user-friendly and safe platform for cryptocurrency trading. Binance ran an Initial Coin Offering in July 2017 during a crypto bull run. The proceeds of about $15 million from the ICO provided the initial funds for the platform's development. After the exchange opened, the primary revenue mechanism comes from the trading fees generated on the platform. Along with trading fees, Binance profits from commissions from OTC transactions, coin listings, advertising and other partnerships.  
+* Binance was founded in China in 2017 by Changpeng Zhao, who also goes by the nickname CZ. He is the current CEO. The binance.us CEO is Brian Shroder, a former executive director of Ant Group Co. and Uber Technologies Inc. Crypto currency was gaining a lot of international momentum in 2017 and CZ identified a need for a user-friendly and safe platform for cryptocurrency trading. Binance ran an Initial Coin Offering in July 2017 during a crypto bull run. The proceeds of about $15 million from the ICO provided the initial funds for the platform's development. After the exchange opened, the primary revenue mechanism comes from the trading fees generated on the platform. Along with trading fees, Binance profits from commissions from OTC transactions, coin listings, advertising and other partnerships.  
 
 
 ## Business Activities
