@@ -44,10 +44,10 @@ According to StackShare, Binance's tech stack includes:
 
 * The cryptocurrency space is flush with innovations, and here are four trends:
 
-1. Initial Coin Offerings (ICOs) and Initial Exchange Offereings (IEOs) have become the most popular fundraising method.  
+1. Initial Coin Offerings (ICOs) and Initial Exchange Offerings (IEOs) have become the most popular fundraising method.  
 
-2. Decentralized Exchanges (DEXs) are another innovation opposed to centralized exchanges. These exchanges operate on blockchain technology and enable peer-to-peer trading of cryptocurrencies without the need for intermediaries. Where they sometimes lack in liquidity, they are able to provide users privacy and control of their tokens and coins. Another great innovations are multi-signature wallets, hardware wallets, and secure storage solutions have been developed to protect users' digital assets. This is to address concerns of hacking and theft, which still can occur, however usually it's through hacking of email accounts to get backups as the wallets are much more difficult to hack otherwise.
- 
+2. Decentralized Exchanges (DEXs) are another innovation compared to centralized exchanges. These exchanges operate on blockchain technology and enable peer-to-peer trading of cryptocurrencies without the need for intermediaries. While they sometimes lack in liquidity, they are able to provide users privacy and control of their tokens and coins. Other great innovations are multi-signature wallets, hardware wallets, and secure storage solutions have been developed to protect users' digital assets. This is to address concerns of hacking and theft.
+   
 3. Non-Fungible Tokens, or NFTs, can be created on the BNB Chain. These can be bought and sold on https://www.binance.com/en/nft/home.
 
 4. Stable coins like BUSD, USDC and Tether emerged as a type of cryptocurrency designed to minimize price volatility by pegging their price fixed to the value of a dollar. Stable coins have gained popularity as they offer stability for traders, enable cross-border payments, and facilitate liquidity on exchanges.
