@@ -1,4 +1,4 @@
-# Case Study of Binance (Binance.com and Binance.us)
+# Case Study of Binance 
 
 ## Overview and Origin
 
